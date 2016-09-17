@@ -1,0 +1,8 @@
+(lp0
+S'poi'
+p1
+aS'shared_with_poi_n'
+p2
+aS'from_poi_to_person_ratio_n'
+p3
+a.
